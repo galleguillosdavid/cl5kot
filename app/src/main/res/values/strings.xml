@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cl5kot</string>
+    <string name="tv2">Selecciona Filtro</string>
+    <string name="button1">numbersList</string>
+    <string name="button2">instanceList</string>
+    <string name="butoon3">numbersMap</string>
+    <string name="butoon4">unsortedList</string>
+    }
+</resources>
